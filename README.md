@@ -2,19 +2,20 @@
 Лабораторная работа №6. Отчёт.
 
 **История операций в форматированном виде:**
-0e7416f 2024-11-15 | B3441 Sukhanov S. S. | Добавлен скриншот в папку
-615ff29 2024-11-15 | B3441 Sukhanov S. S. | Merge branch 'master' of https://github.com/B3441SukhanovSS/LR6
-27f3d8d 2024-11-15 | B3441 Sukhanov S. S. | Revert "Добавлена новая ветка"
-7547a60 2024-11-15 | B3441SukhanovSS | Create testfile
-25bd058 2024-11-14 | B3441 Sukhanov S. S. | Добавлена новая ветка
-c03afcc 2024-11-14 | Группа Фамилия И.О. | Merge branch 'master' of https://github.com/B3441SukhanovSS/LR6
-b76880a 2024-11-14 | Группа Фамилия И.О. | Заполнен отчет
-619e670 2024-11-14 | Группа Фамилия И.О. | Создана папка для скриншотов
-1a9da58 2024-11-13 | Группа Фамилия И.О. | Создана новая ветка
-3d65201 2024-11-13 | B3441SukhanovSS | Create testfile
-921f53b 2020-11-21 | Kurtyanik | Обновление информации
-c08a654 2020-11-21 | Kurtyanik | Файл создан пустым
-3c6e913 2020-11-21 | Kurtyanik | Initial commit
+
+    0e7416f 2024-11-15 | B3441 Sukhanov S. S. | Добавлен скриншот в папку
+    615ff29 2024-11-15 | B3441 Sukhanov S. S. | Merge branch 'master' of https://github.com/B3441SukhanovSS/LR6
+    27f3d8d 2024-11-15 | B3441 Sukhanov S. S. | Revert "Добавлена новая ветка"
+    7547a60 2024-11-15 | B3441SukhanovSS | Create testfile
+    25bd058 2024-11-14 | B3441 Sukhanov S. S. | Добавлена новая ветка
+    c03afcc 2024-11-14 | Группа Фамилия И.О. | Merge branch 'master' of https://github.com/B3441SukhanovSS/LR6
+    b76880a 2024-11-14 | Группа Фамилия И.О. | Заполнен отчет
+    619e670 2024-11-14 | Группа Фамилия И.О. | Создана папка для скриншотов
+    1a9da58 2024-11-13 | Группа Фамилия И.О. | Создана новая ветка
+    3d65201 2024-11-13 | B3441SukhanovSS | Create testfile
+    921f53b 2020-11-21 | Kurtyanik | Обновление информации
+    c08a654 2020-11-21 | Kurtyanik | Файл создан пустым
+    3c6e913 2020-11-21 | Kurtyanik | Initial commit
 
 **Лог команд:**
 
